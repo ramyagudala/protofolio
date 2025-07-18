@@ -470,7 +470,7 @@
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <div class="mb-6 md:mb-0">
-                    <h2 class="text-2xl font-bold text-gradient mb-2">Gudala Priyanka Sai Ramya/h2>
+                    <h2 class="text-2xl font-bold text-gradient mb-2">Gudala Priyanka Sai Ramya</h2>
                     <p class="text-gray-400">Full Stack Developer</p>
                 </div>
                 <div class="flex space-x-6">
